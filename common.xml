@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="autoload/vim-pathogen" name="tpope/vim-pathogen"/>
+    <project path="bundle/self-vim" name="wjxing/self-vim" remote="self"/>
+    <project path="bundle/vim-colors-solarized" name="altercation/vim-colors-solarized"/>
+    <project path="bundle/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
+    <project path="bundle/vim-powerline" name="Lokaltog/vim-powerline.git" revision="develop"/>
+    <project path="bundle/gruvbox" name="morhetz/gruvbox.git"/>
+</manifest>
