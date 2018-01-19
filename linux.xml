@@ -11,7 +11,7 @@
         sync-j="4"
         sync-c="true" />
 
-    <include name="common.xml">
+    <include name="common.xml" />
 
     <project path="pack/myplugins/start/genutils" name="vim-scripts/genutils"/>
     <project path="pack/myplugins/start/taglist" name="vim-scripts/taglist.vim"/>
