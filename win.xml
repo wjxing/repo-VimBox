@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="3rd_plug"
+        fetch="https://github.com" />
+
+    <remote name="self"
+        fetch="ssh://git@github.com" />
+
+    <default revision="master"
+        remote="3rd_plug"
+        sync-j="4"
+        sync-c="true" />
+
+    <include name="common.xml" />
+
+    <project path="pack/myplugins/start/molokai" name="vim-scripts/molokai.git"/>
+</manifest>
