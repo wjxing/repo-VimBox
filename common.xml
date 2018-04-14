@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="plugin" name="wjxing/self-vim" remote="self"/>
+    <project path="plugin" name="wjxing/self-vim" remote="self">
+        <linkfile dest="vimrc" src="init.rc" />
+    </project>
     <project path="pack/myplugins/start/vim-colors-solarized" name="altercation/vim-colors-solarized"/>
     <project path="pack/myplugins/start/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
     <project path="pack/myplugins/start/vim-powerline" name="Lokaltog/vim-powerline.git" revision="develop"/>
