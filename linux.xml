@@ -19,7 +19,6 @@
     <project path="bundle/genutils" name="vim-scripts/genutils"/>
     <project path="bundle/gtags" name="vim-scripts/gtags.vim.git"/>
     <project path="bundle/mark" name="vim-scripts/Mark.git"/>
-    <project path="bundle/lookupfile" name="vim-scripts/lookupfile.git"/>
     <project path="bundle/taglist" name="vim-scripts/taglist.vim"/>
     <project path="bundle/unite" name="Shougo/unite.vim.git"/>
     <project path="bundle/gitgutter" name="vim-scripts/vim-gitgutter.git"/>
