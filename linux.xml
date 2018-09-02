@@ -22,4 +22,5 @@
     <project path="pack/myplugins/start/taglist" name="vim-scripts/taglist.vim"/>
     <project path="pack/myplugins/start/unite" name="Shougo/unite.vim.git"/>
     <project path="pack/myplugins/start/gitgutter" name="vim-scripts/vim-gitgutter.git"/>
+    <project path="pack/myplugins/start/asyncrun" name="skywind3000/asyncrun.vim.git"/>
 </manifest>
