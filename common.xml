@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="plugin" name="wjxing/self-vim" remote="self">
-        <linkfile dest="vimrc" src="init.rc" />
+        <linkfile dest="vimrc" src="init.vim8.rc" />
     </project>
     <project path="pack/myplugins/start/vim-colors-solarized" name="altercation/vim-colors-solarized"/>
     <project path="pack/myplugins/start/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
