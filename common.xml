@@ -8,5 +8,6 @@
     <project path="bundle/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
     <project path="pack/myplugins/start/vim-airline" name="vim-airline/vim-airline.git"/>
     <project path="pack/myplugins/start/vim-airline-themes" name="vim-airline/vim-airline-themes.git"/>
+    <project path="pack/myplugins/start/vim-devicons" name="ryanoasis/vim-devicons.git"/>
     <project path="bundle/gruvbox" name="morhetz/gruvbox.git"/>
 </manifest>
