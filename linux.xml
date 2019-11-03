@@ -25,4 +25,8 @@
     <project path="pack/myplugins/start/markdown-preview" name="iamcco/markdown-preview.vim.git"/>
     <project path="pack/myplugins/start/taglist" name="vim-scripts/taglist.vim"/>
     <project path="pack/myplugins/start/unite" name="Shougo/unite.vim.git"/>
+    <project path="pack/myplugins/start/NERDTree" name="vim-scripts/The-NERD-tree.git"/>
+    <project path="pack/myplugins/start/vim-airline" name="vim-airline/vim-airline.git"/>
+    <project path="pack/myplugins/start/vim-airline-themes" name="vim-airline/vim-airline-themes.git"/>
+    <project path="pack/myplugins/start/vim-devicons" name="ryanoasis/vim-devicons.git"/>
 </manifest>
