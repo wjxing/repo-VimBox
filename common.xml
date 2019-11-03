@@ -6,8 +6,9 @@
     </project>
     <project path="bundle/vim-colors-solarized" name="altercation/vim-colors-solarized"/>
     <project path="bundle/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
-    <project path="pack/myplugins/start/vim-airline" name="vim-airline/vim-airline.git"/>
-    <project path="pack/myplugins/start/vim-airline-themes" name="vim-airline/vim-airline-themes.git"/>
-    <project path="pack/myplugins/start/vim-devicons" name="ryanoasis/vim-devicons.git"/>
+    <project path="bundle/NERDTree" name="vim-scripts/The-NERD-tree.git"/>
+    <project path="bundle/vim-airline" name="vim-airline/vim-airline.git"/>
+    <project path="bundle/vim-airline-themes" name="vim-airline/vim-airline-themes.git"/>
+    <project path="bundle/vim-devicons" name="ryanoasis/vim-devicons.git"/>
     <project path="bundle/gruvbox" name="morhetz/gruvbox.git"/>
 </manifest>
