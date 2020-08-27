@@ -17,6 +17,7 @@
     <project path="pack/myplugins/start/asyncrun" name="skywind3000/asyncrun.vim.git"/>
     <project path="pack/myplugins/start/c" name="vim-scripts/c.vim"/>
     <project path="pack/myplugins/start/ctrlp" name="ctrlpvim/ctrlp.vim.git"/>
+    <project path="pack/myplugins/start/fzf" name="junegunn/fzf.vim.git"/>
     <project path="pack/myplugins/start/genutils" name="vim-scripts/genutils"/>
     <project path="pack/myplugins/start/gitgutter" name="vim-scripts/vim-gitgutter.git"/>
     <project path="pack/myplugins/start/gtags" name="vim-scripts/gtags.vim.git"/>
