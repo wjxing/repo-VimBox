@@ -17,10 +17,8 @@
     <project path="pack/myplugins/start/asyncrun" name="skywind3000/asyncrun.vim.git"/>
     <project path="pack/myplugins/start/c" name="vim-scripts/c.vim"/>
     <project path="pack/myplugins/start/ctrlp" name="ctrlpvim/ctrlp.vim.git"/>
-    <project path="pack/myplugins/start/fzf" name="junegunn/fzf.vim.git"/>
     <project path="pack/myplugins/start/genutils" name="vim-scripts/genutils"/>
     <project path="pack/myplugins/start/gitgutter" name="vim-scripts/vim-gitgutter.git"/>
-    <project path="pack/myplugins/start/gtags" name="vim-scripts/gtags.vim.git"/>
     <project path="pack/myplugins/start/mark" name="vim-scripts/Mark.git"/>
     <project path="pack/myplugins/start/markdown" name="plasticboy/vim-markdown.git"/>
     <project path="pack/myplugins/start/markdown-preview" name="iamcco/markdown-preview.vim.git"/>
@@ -31,4 +29,7 @@
     <project path="pack/myplugins/start/vim-airline" name="vim-airline/vim-airline.git"/>
     <project path="pack/myplugins/start/vim-airline-themes" name="vim-airline/vim-airline-themes.git"/>
     <project path="pack/myplugins/start/vim-devicons" name="ryanoasis/vim-devicons.git"/>
+
+    <project path="pack/myplugins/opt/fzf" name="junegunn/fzf.vim.git"/>
+    <project path="pack/myplugins/opt/gtags" name="vim-scripts/gtags.vim.git"/>
 </manifest>
