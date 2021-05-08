@@ -23,7 +23,6 @@
     <project path="pack/myplugins/start/markdown" name="plasticboy/vim-markdown.git"/>
     <project path="pack/myplugins/start/markdown-preview" name="iamcco/markdown-preview.vim.git"/>
     <project path="pack/myplugins/start/NERDTree" name="vim-scripts/The-NERD-tree.git"/>
-    <project path="pack/myplugins/start/slimv" name="kovisoft/slimv.git"/>
     <project path="pack/myplugins/start/taglist" name="vim-scripts/taglist.vim"/>
     <project path="pack/myplugins/start/unite" name="Shougo/unite.vim.git"/>
     <project path="pack/myplugins/start/vim-airline" name="vim-airline/vim-airline.git"/>
@@ -32,4 +31,5 @@
 
     <project path="pack/myplugins/opt/fzf" name="junegunn/fzf.vim.git"/>
     <project path="pack/myplugins/opt/gtags" name="vim-scripts/gtags.vim.git"/>
+    <project path="pack/myplugins/opt/slimv" name="kovisoft/slimv.git"/>
 </manifest>
