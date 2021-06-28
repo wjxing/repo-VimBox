@@ -4,6 +4,7 @@
         <linkfile dest="vimrc" src="init.rc" />
     </project>
     <project path="pack/myplugins/start/vim-colors-solarized" name="altercation/vim-colors-solarized"/>
-    <project path="pack/myplugins/start/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
     <project path="pack/myplugins/start/gruvbox" name="morhetz/gruvbox.git"/>
+
+    <project path="pack/myplugins/opt/minibufexpl" name="vim-scripts/minibufexpl.vim"/>
 </manifest>
